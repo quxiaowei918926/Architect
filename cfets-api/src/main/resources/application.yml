@@ -1,0 +1,8 @@
+#spring配置文件分组
+spring:
+  profiles:
+    active: dev
+
+#端口号
+server:
+  port: 2023
